@@ -1,6 +1,6 @@
 # Program to practice dictionaries. Simulates a library.
-# Ideas: Number of books with check if rented or not. Number of Users/IDs who rented a book. Return dates. Max allowan.
-# New users can register
+# Idea to add: Save library data (books, users) in external document (.csv)
+# Idea to add: New users can register
 
 
 library_list_books = {
