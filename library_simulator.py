@@ -1,6 +1,10 @@
 # Program to practice dictionaries. Simulates a library.
-# Idea to add: Save library data (books, users) in external document (.csv)
-# Idea to add: New users can register
+# 
+# To add: 
+# exception handling: Spellchecking, user inputs
+# Save library data (books, users) in external document (.csv)
+# new users can register
+# pattern matching for e.g. checking if books are due
 
 
 library_list_books = {
